@@ -34,7 +34,7 @@ An intelligent IoT-based LPG monitoring platform that helps users monitor gas le
 
 ### Dashboard Preview
 
-![Dashboard](./src/assets/hero.png)
+![Dashboard](C:\Users\sanka\OneDrive\Pictures\Screenshots)
 
 ## 📂 Project Structure
 
