@@ -1,16 +1,82 @@
-# React + Vite
+# 🔥 AI-Powered Smart LPG Monitoring & Safety System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An intelligent IoT-based LPG monitoring platform that helps users monitor gas levels, predict leaks, receive instant alerts, and forecast refill requirements using AI-powered analytics.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🌐 **Demo:** https://your-netlify-link.netlify.app
 
-## React Compiler
+## 📌 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 📊 Real-Time LPG Level Monitoring
+- 🤖 AI-Based Leak Prediction
+- ⚠️ Instant Safety Alerts
+- 📈 Gas Usage Analytics
+- 🔮 Smart Refill Forecasting
+- 📱 Responsive Dashboard UI
+- 🎯 Risk Assessment & Safety Status
+- 🌐 Modern IoT Monitoring Interface
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Frontend
+- React.js
+- Vite
+- CSS3
+- Recharts
+
+### Tools
+- Git
+- GitHub
+- Netlify
+
+## 📷 Screenshots
+
+### Dashboard Preview
+
+![Dashboard](./src/assets/hero.png)
+
+## 📂 Project Structure
+
+```bash
+src/
+├── assets/
+├── App.jsx
+├── App.css
+├── index.css
+├── main.jsx
+
+public/
+
+package.json
+vite.config.js
+```
+
+
+## 🎯 Use Cases
+
+- Smart Homes
+- Apartments
+- Commercial Kitchens
+- Hotels & Restaurants
+- LPG Service Providers
+- Industrial Safety Monitoring
+
+## 🔮 Future Enhancements
+
+- IoT Sensor Integration
+- Mobile Application
+- SMS & Email Alerts
+- Cloud Data Storage
+- Advanced AI Models
+- Emergency Response System
+
+## 👨‍💻 Author
+
+**DeenPrasath**
+
+GitHub: https://github.com/Deenprasath
+
+## ⭐ Support
+
+If you found this project useful, please give it a ⭐ on GitHub.
