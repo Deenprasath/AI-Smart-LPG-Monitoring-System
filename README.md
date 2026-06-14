@@ -4,7 +4,7 @@ An intelligent IoT-based LPG monitoring platform that helps users monitor gas le
 
 ## 🚀 Live Demo
 
-🌐 **Demo:** https://your-netlify-link.netlify.app
+🌐 **Demo:** https://smartlpg.netlify.app/
 
 ## 📌 Features
 
