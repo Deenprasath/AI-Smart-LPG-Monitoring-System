@@ -33,7 +33,7 @@ An intelligent IoT-based LPG monitoring platform that helps users monitor gas le
 ## 📷 Screenshots
 
 
-![GasPred Dashboard](screenshots/dashboard.png)
+![GasPred Dashboard](Gaspred.png)
 
 ## 📂 Project Structure
 
